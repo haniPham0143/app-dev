@@ -7,9 +7,9 @@ My first repository
 ## Solo leveling is a portal fantasy web novel
 ### In a world where hunters, human warriors who possess supernatural abilities must battle deadly monsters to protect all mankind fromcertain annihilation.
 ## Main Cast
-- Sung Jin-woo (Protagonist, Originally a famously weak E-rank hunter)
-- Sung Jin-ah (Jinwoo's younger sister)
-- Park Kyung Hye (Mother of Jinwoo and Jinah)
+- Sung Jin-woo (Protagonist, Originally a famous weak E-rank hunter)
+- Sung Jin-ah (Jinwoo's Onee-Chan)
+- Park Kyung Hye (Okasa of Jinwoo and Jinah)
 - Sung ii-hwan (Father of Jinwoo and Jinah, Known as a Korean S-rank Hunter)
 - Yoo Jin-ho (Close friend of Sung Jin-woo)
 - Cha Hae-in (Beatiful Korean S-rank Hunter Who specializes in swordmanship)
